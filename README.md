@@ -1,6 +1,6 @@
 #  SQL Bootcamp — Du Débutant à l’Avancé
 
-Bienvenue dans mon dépôt **SQL Bootcamp**, un projet d’apprentissage personnel structuré autour d’un parcours complet allant des bases de SQL jusqu’aux concepts avancés, à travers différents exercices, projets pratiques et cas d’usage inspirés du monde réel.
+Bienvenue dans mon dépôt **SQL Bootcamp**, un projet d’apprentissage personnel structuré autour d’un parcours complet allant des bases de SQL jusqu’aux concepts avancés, à travers différents projets pratiques et cas d’usage inspirés du monde réel.
 
 ##  Objectif
 
